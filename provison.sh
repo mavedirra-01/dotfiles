@@ -12,4 +12,4 @@ git clone https://github.com/stevemcilwain/quiver.git /home/osi/.oh-my-zsh/custo
 runuser -l osi -c 'curl -sLf https://spacevim.org/install.sh | bash'
 #curl -sLf https://spacevim.org/install.sh | bash
 mv tmux.conf /home/osi/.tmux.conf
-mv init.toml /home/osi/.SpaceVim/init.toml
+3mv init.toml /home/osi/.SpaceVim/init.toml
